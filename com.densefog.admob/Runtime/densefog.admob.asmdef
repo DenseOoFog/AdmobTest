@@ -1,0 +1,13 @@
+{
+  "name": "densefog.admob.Runtime",
+  "references": [
+    
+  ],
+  "optionalUnityReferences": [
+    "AdUtil"
+  ],
+  "includePlatforms": [
+    
+  ],
+  "excludePlatforms": []
+}
